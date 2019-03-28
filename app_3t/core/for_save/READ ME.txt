@@ -1,0 +1,8 @@
+Directory "for_save" intended only for files created by the 3Тарр.
+
+Тhird-party files can interfere with the correct operation of 3T app.
+
+Please do not put third-party files to "for_save" directory.
+
+
+
